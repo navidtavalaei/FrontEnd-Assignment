@@ -1,4 +1,4 @@
-Front-end development in HTML, CSS (and Javascript)
+Front-end development in HTML, CSS (and Javascript) |
 The main objective of this project is to implemend my learnings in HTML, CSS, JS.
 I created a webpage for BTS students to find how many days is left to the graduation date.
 I have included the following features to practice some of my learnings in this class:
