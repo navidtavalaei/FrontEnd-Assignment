@@ -13,7 +13,7 @@ I have included the following features/changes to practice some of my learnings 
 6) Removing some elements from the original source
 7) Adding a symbol
 
-Here is a screen shot of the original source:
+Here is a screenshot of the original source:
 
 <img width="936" alt="Screen Shot 2020-04-03 at 7 17 07 PM" src="https://user-images.githubusercontent.com/61697268/78388139-cbc48700-75e0-11ea-967e-a50cf93acd71.png">
 
