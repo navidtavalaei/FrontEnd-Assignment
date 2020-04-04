@@ -1,4 +1,5 @@
 Design & Development by Navid Tavalaei
+
 Front-end development in HTML, CSS (and Javascript) |
 The main objective of this project is to implement my learnings in HTML, CSS, JS.
 I created a webpage for BTS students to find out how many days is left to the graduation date.
