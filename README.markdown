@@ -11,6 +11,7 @@ I have included the following features/changes to practice some of my learnings 
 4) adding 3 background images
 5) changing style & size of fonts
 6) Removing some elements from the original source
+7) Adding a symbol
 
 Here is a screen shot of the original source:
 
