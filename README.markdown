@@ -2,7 +2,7 @@ Design & Development by Navid Tavalaei
 
 Front-end development in HTML, CSS (and Javascript) |
 The main objective of this project is to implement my learnings in HTML, CSS, JS.
-I created a webpage for BTS students to find out how many days is left to the graduation date.
+I created a webpage for BTS students to find out how many days are left to the graduation 2019-2020.
 I have included the following features/changes to practice some of my learnings in this class:
 
 1) Creating full page parallax scroll effect
