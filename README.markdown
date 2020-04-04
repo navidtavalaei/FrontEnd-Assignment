@@ -3,10 +3,10 @@ The main objective of this project is to implement my learnings in HTML, CSS, JS
 I created a webpage for BTS students to find out how many days is left to the graduation date.
 I have included the following features/changes to practice some of my learnings in this class:
 
-1) Creating page parallax scroll effect
+1) Creating full page parallax scroll effect
 2) Adding a youtube video
-3) Adding a page with countdown
-4) changeing background images
+3) Adding a page with a countdown
+4) adding 3 background images
 5) changing style & size of fonts
 6) Removing some elements from the original source
 
