@@ -70,7 +70,7 @@ html, body {
   -webkit-box-direction: normal;
           flex-flow: column nowrap;
   color: #fff;
-  font-family: Comic Sans MS;
+  font-family: Courier;
   text-transform: lowerrcase;
   -webkit-transform: translateY(40vh);
           transform: translateY(40vh);
