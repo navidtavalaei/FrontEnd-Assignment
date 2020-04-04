@@ -1,4 +1,4 @@
-Navid Tavalaei
+Design & Develop by Navid Tavalaei
 
 Front-end development in HTML, CSS (and Javascript) |
 The main objective of this project is to implement my learnings in HTML, CSS, JS.
